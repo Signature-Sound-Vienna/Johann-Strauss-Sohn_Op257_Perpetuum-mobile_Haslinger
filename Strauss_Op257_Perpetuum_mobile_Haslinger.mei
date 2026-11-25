@@ -62,7 +62,7 @@
    <music xml:id="mp9n295">
       <facsimile xml:id="fwykk9v1">
          <surface xml:id="slgblcl1" n="1" lrx="1266" lry="1733" ulx="0" uly="0">
-            <graphic xml:id="g66wzc9" height="1734" target="Strauss_Op257_page-2.png" width="1267"/>
+            <graphic xml:id="g66wzc9" height="1734" target="img/Strauss_Op257_page-2.png" width="1267"/>
             <zone xml:id="z5kai491" lrx="556" lry="551" type="measure" ulx="121" uly="291"/>
             <zone xml:id="zbdg96c1" lrx="700" lry="551" type="measure" ulx="526" uly="296"/>
             <zone xml:id="z8xbx0w2" lrx="850" lry="547" type="measure" ulx="676" uly="299"/>
@@ -88,7 +88,7 @@
             <zone xml:id="zlhcbet1" lrx="1168" lry="1405" type="measure" ulx="960" uly="1133"/>
          </surface>
          <surface xml:id="s74prso2" n="2" lrx="1266" lry="1733" ulx="0" uly="0">
-            <graphic xml:id="gc57hdn1" height="1734" target="Strauss_Op257_page-3.png" width="1267"/>
+            <graphic xml:id="gc57hdn1" height="1734" target="img/Strauss_Op257_page-3.png" width="1267"/>
             <zone xml:id="zjpyg3l2" lrx="355" lry="404" type="measure" ulx="97" uly="135"/>
             <zone xml:id="zkpi2sd1" lrx="534" lry="398" type="measure" ulx="328" uly="134"/>
             <zone xml:id="zo9p57h" lrx="711" lry="396" type="measure" ulx="507" uly="132"/>
@@ -120,7 +120,7 @@
             <zone xml:id="z8lujdl1" lrx="1151" lry="1467" type="measure" ulx="941" uly="1198"/>
          </surface>
          <surface xml:id="sd1iyqg1" n="3" lrx="1266" lry="1733" ulx="0" uly="0">
-            <graphic xml:id="gqh8x9e1" height="1734" target="Strauss_Op257_page-4.png" width="1267"/>
+            <graphic xml:id="gqh8x9e1" height="1734" target="img/Strauss_Op257_page-4.png" width="1267"/>
             <zone xml:id="zuujtsa" lrx="447" lry="381" type="measure" ulx="115" uly="126"/>
             <zone xml:id="zbqnrty2" lrx="666" lry="380" type="measure" ulx="421" uly="129"/>
             <zone xml:id="z84w93d" lrx="805" lry="378" type="measure" ulx="636" uly="132"/>
@@ -146,7 +146,7 @@
             <zone xml:id="zgaui5g" lrx="1165" lry="1447" type="measure" ulx="898" uly="1177"/>
          </surface>
          <surface xml:id="slb4vix2" n="4" lrx="1266" lry="1733" ulx="0" uly="0">
-            <graphic xml:id="g7tk2c2" height="1734" target="Strauss_Op257_page-5.png" width="1267"/>
+            <graphic xml:id="g7tk2c2" height="1734" target="img/Strauss_Op257_page-5.png" width="1267"/>
             <zone xml:id="zat6ygm2" lrx="501" lry="388" type="measure" ulx="98" uly="110"/>
             <zone xml:id="z6f3d45" lrx="651" lry="387" type="measure" ulx="475" uly="106"/>
             <zone xml:id="zcteyfw2" lrx="815" lry="386" type="measure" ulx="628" uly="114"/>
@@ -174,7 +174,7 @@
             <zone xml:id="zhjhcoz1" lrx="1143" lry="1444" type="measure" ulx="883" uly="1173"/>
          </surface>
          <surface xml:id="sykwt7f1" n="5" lrx="1266" lry="1733" ulx="0" uly="0">
-            <graphic xml:id="g019p0p1" height="1734" target="Strauss_Op257_page-6.png" width="1267"/>
+            <graphic xml:id="g019p0p1" height="1734" target="img/Strauss_Op257_page-6.png" width="1267"/>
             <zone xml:id="z02sd101" lrx="494" lry="381" type="measure" ulx="128" uly="110"/>
             <zone xml:id="zxbl4be1" lrx="737" lry="381" type="measure" ulx="466" uly="113"/>
             <zone xml:id="z0rxktf" lrx="979" lry="383" type="measure" ulx="709" uly="109"/>
@@ -203,7 +203,7 @@
             <zone xml:id="zixc2e51" lrx="1184" lry="1435" type="measure" ulx="977" uly="1166"/>
          </surface>
          <surface xml:id="s2p0knf" n="6" lrx="1266" lry="1733" ulx="0" uly="0">
-            <graphic xml:id="gzcqwii1" height="1734" target="Strauss_Op257_page-7.png" width="1267"/>
+            <graphic xml:id="gzcqwii1" height="1734" target="img/Strauss_Op257_page-7.png" width="1267"/>
             <zone xml:id="z27rgjn2" lrx="329" lry="393" type="measure" ulx="88" uly="128"/>
             <zone xml:id="z2ni6jq1" lrx="438" lry="390" type="measure" ulx="298" uly="128"/>
             <zone xml:id="zrfa75m1" lrx="617" lry="388" type="measure" ulx="409" uly="138"/>
@@ -236,7 +236,7 @@
             <zone xml:id="z495xbq1" lrx="1133" lry="1454" type="measure" ulx="976" uly="1189"/>
          </surface>
          <surface xml:id="sitlnf81" n="7" lrx="1266" lry="1733" ulx="0" uly="0">
-            <graphic xml:id="gifk875" height="1734" target="Strauss_Op257_page-8.png" width="1267"/>
+            <graphic xml:id="gifk875" height="1734" target="img/Strauss_Op257_page-8.png" width="1267"/>
             <zone xml:id="zj2d7jt1" lrx="401" lry="384" type="measure" ulx="137" uly="115"/>
             <zone xml:id="z0xwl5h" lrx="549" lry="379" type="measure" ulx="375" uly="123"/>
             <zone xml:id="zypha0y1" lrx="732" lry="379" type="measure" ulx="524" uly="132"/>
@@ -264,7 +264,7 @@
             <zone xml:id="zqjvxwu2" lrx="1198" lry="1457" type="measure" ulx="1030" uly="1169"/>
          </surface>
          <surface xml:id="savpgf8" n="8" lrx="1266" lry="1733" ulx="0" uly="0">
-            <graphic xml:id="g7oz52v1" height="1734" target="Strauss_Op257_page-9.png" width="1267"/>
+            <graphic xml:id="g7oz52v1" height="1734" target="img/Strauss_Op257_page-9.png" width="1267"/>
             <zone xml:id="zd5nnl8" lrx="365" lry="404" type="measure" ulx="89" uly="125"/>
             <zone xml:id="zjgqtrv2" lrx="516" lry="405" type="measure" ulx="340" uly="128"/>
             <zone xml:id="zyg9bz8" lrx="670" lry="404" type="measure" ulx="493" uly="128"/>
